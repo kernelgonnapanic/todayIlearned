@@ -11,7 +11,7 @@ let uglyUrls = Array.prototype.map.call(document.querySelectorAll('a'), node => 
 
 New approach:
 ```
-const {map} = Array.prototype;
+const {map} = Array.prototype.map;
 
 let niceUrls = document.querySelectorAll('a')::map(node => node.href);
 ```
