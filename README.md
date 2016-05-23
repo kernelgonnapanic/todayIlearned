@@ -1,4 +1,4 @@
-<img src="https://github.com/kernelgonnapanic/todayIlearned/Ilearned.jpg" width="600">
+<img src="https://github.com/kernelgonnapanic/todayIlearned/blob/master/Ilearned.jpg" width="600">
 
 # Today I learned
 
